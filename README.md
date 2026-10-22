@@ -1,5 +1,3 @@
-[![Codergeist](banner.png)](https://codergeist.com)
-
 ### 👋 Iker Garitaonandia
 
 Full-stack web developer, 20 years in — mostly React, Next.js and Node.
