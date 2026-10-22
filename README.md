@@ -8,9 +8,9 @@ automating workflows, building AI-backed applications and training the teams tha
 
 #### What I'm building
 
-- 🧾 [tufiscal](https://tufiscal.es) — AI-first fiscal management for Spanish *autónomos*
 - 🖥️ [iker.io](https://iker.io) — my CV, dressed up as a desktop OS
 - 👻 [codergeist.com](https://codergeist.com) — the company
+- 🧾 [tufiscal](https://tufiscal.es) — AI-first fiscal management for Spanish *autónomos*
 
 #### On the side
 
